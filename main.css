@@ -18,9 +18,15 @@ h1 {
 .panel {
     text-align: center;
     margin-top: 0px;
-
 }
 a {
     text-decoration:none;
     color: #239B56 
+}
+.emoji {
+    text-align: center;
+    font-size: 22px;
+}
+.about {
+    text-align: center;
 }
