@@ -5,6 +5,7 @@ html {
     background-image: url(./images/paint.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 400px;
     
 }
@@ -27,7 +28,6 @@ h1 {
 }
 .panel {
     text-align: center;
-    margin-top: 0px;
 }
 a {
     text-decoration:none;
@@ -42,8 +42,8 @@ a {
     text-align: center;
     margin: 0 auto;
     max-width: 700px;
-
 }
+
 
 .titleAbout {
     margin-left: 320px;
