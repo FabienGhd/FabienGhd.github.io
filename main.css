@@ -25,6 +25,7 @@ h1 {
     text-align: center;
     font-size: 50px;
     margin-bottom: 15px;
+    position: relative;
 
 }
 .panel {
@@ -48,6 +49,7 @@ a {
 
 .titleAbout {
     margin-left: 320px;
+    position: relative;
 }
 
 #footer {
@@ -63,4 +65,9 @@ a {
     display: inline-block;
     margin: 5px;
     margin-top: 0px;
+    transition: top ease 0.25s;
+    position: relative;
+}
+.socials:hover {
+    top: 5px;
 }
